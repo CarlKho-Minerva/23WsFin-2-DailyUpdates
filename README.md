@@ -1,8 +1,17 @@
-## 23WsFin-2-DailyUpdates ##
+## 23WsFin-2-DailyUpdates CarlKho##
 #### Assigned to be 12 hours/week by Emil #### 
-TOTAL: 6 hours
 
-05/04/2023 (1 hour)
+**05/05/2023** 
+Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
+- Created VENV and installed required dependencies [100% success]
+- Prepped `http://127.0.0.1:8888/notebooks/Automated-Offer-Letters-Generator/AGOL-Script.ipynb` for run [100% Success]
+- Faced Errors upon run of Notebook
+-- added .json to "sheet_creds_json_keyfile = "agol2324-2faea57741c9.json" # Path to credentials for GSheets API. Download from GCP "
+-- Used tempo HelloSignAPI key (personal - Carl's)
+-- Gave access to agol-2324@agol2324.iam.gserviceaccount.com in Sheets
+-- Redownloaded OAuth file in GCP and requested new permissions
+
+**05/04/2023**
 - Updated Automation with correct Template Letter IDs (https://github.com/CarlKho-Minerva/2324WsFin-1-OfferLetter_AppScript/blob/main/Offer_Letters_%26_Paycom_Automation.js)
 
 Mostly focused in Offer Letter Template: https://drive.google.com/drive/u/0/folders/1_1CHE6vMHBP7glt-rltmV54mNPCzKqTm
@@ -20,12 +29,12 @@ Mostly focused in Offer Letter Template: https://drive.google.com/drive/u/0/fold
 - Offer letter
 -- "Payment" instead of "Salary"
 
-05/03/2023 (3 hours)
+**05/03/2023**
 - Setup schedule for working 
 - Setup Google Drive folders and files for Automation
 
-05/02/2023 (3 hours)
+**05/02/2023**
 - Helped Emil in spreadsheet formula
 - Reviewed meeting w Albin for Automated Offer Letters
 - Continued Writing for Technical Documentation
-- Setup Github for Financec
+- Setup Github for Finance
