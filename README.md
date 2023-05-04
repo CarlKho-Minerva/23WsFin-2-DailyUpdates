@@ -1,5 +1,5 @@
 ## 23WsFin-2-DailyUpdates CarlKho##
-#### Assigned to be 12 hours/week by Emil #### 
+### Assigned to be 12 hours/week by Emil ### 
 
 **05/05/2023** 
 Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
@@ -11,6 +11,9 @@ Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
 - Used tempo HelloSignAPI key (personal - Carl's)
 - Gave access to agol-2324@agol2324.iam.gserviceaccount.com in Sheets
 - Redownloaded OAuth file in GCP and requested new permissions
+
+**FOR ALBIN: AppScript for Summer Sheet has a bug**
+https://script.google.com/home/projects/119I0g-HU2Ns0xk2sE5Vq1vRexjxrRtV3Vwnb9fuar8WYgb7VHtuY5QMb/edit
 
 **05/04/2023**
 - Updated Automation with correct Template Letter IDs (https://github.com/CarlKho-Minerva/2324WsFin-1-OfferLetter_AppScript/blob/main/Offer_Letters_%26_Paycom_Automation.js)
