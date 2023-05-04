@@ -5,11 +5,12 @@
 Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
 - Created VENV and installed required dependencies [100% success]
 - Prepped `http://127.0.0.1:8888/notebooks/Automated-Offer-Letters-Generator/AGOL-Script.ipynb` for run [100% Success]
-- Faced Errors upon run of Notebook
--- added .json to "sheet_creds_json_keyfile = "agol2324-2faea57741c9.json" # Path to credentials for GSheets API. Download from GCP "
--- Used tempo HelloSignAPI key (personal - Carl's)
--- Gave access to agol-2324@agol2324.iam.gserviceaccount.com in Sheets
--- Redownloaded OAuth file in GCP and requested new permissions
+
+**Faced Errors upon run of Notebook**
+- added .json to "sheet_creds_json_keyfile = "agol2324-2faea57741c9.json" # Path to credentials for GSheets API. Download from GCP "
+- Used tempo HelloSignAPI key (personal - Carl's)
+- Gave access to agol-2324@agol2324.iam.gserviceaccount.com in Sheets
+- Redownloaded OAuth file in GCP and requested new permissions
 
 **05/04/2023**
 - Updated Automation with correct Template Letter IDs (https://github.com/CarlKho-Minerva/2324WsFin-1-OfferLetter_AppScript/blob/main/Offer_Letters_%26_Paycom_Automation.js)
