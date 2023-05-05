@@ -1,7 +1,6 @@
 ## 23WsFin-2-DailyUpdates CarlKho##
 ### Assigned to be 12 hours/week by Emil ### 
 
-
 **05/05/2023** (4 hours)
 Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
 - Created VENV and installed required dependencies [100% success]
@@ -21,8 +20,9 @@ https://script.google.com/home/projects/119I0g-HU2Ns0xk2sE5Vq1vRexjxrRtV3Vwnb9fu
 - Tested VPN; ran into errors; requested help (ONGOING)
 - Drafted VPN Letter for summer interns/manager
 - Setup GDrive folder for VPN Requests https://drive.google.com/drive/u/0/folders/1IEKJpuPPyhR4d2NZB7gDyFcoqo87c4xs
-
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **05/04/2023** (3 hours)
 - Updated Automation with correct Template Letter IDs (https://github.com/CarlKho-Minerva/2324WsFin-1-OfferLetter_AppScript/blob/main/Offer_Letters_%26_Paycom_Automation.js)
 
@@ -42,7 +42,9 @@ Mostly focused in Offer Letter Template: https://drive.google.com/drive/u/0/fold
 -- "Payment" instead of "Salary"
 
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -51,7 +53,9 @@ Mostly focused in Offer Letter Template: https://drive.google.com/drive/u/0/fold
 - Setup Google Drive folders and files for Automation
 
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
