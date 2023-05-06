@@ -1,6 +1,16 @@
 ## 23WsFin-2-DailyUpdates CarlKho##
 ### Assigned to be 12 hours/week by Emil ### 
 ----------------------------------------------------------------
+
+**05/06/2023** (2 hours)
+
+VPN
+- Raised VPN issue which led to successful fixing of servicing from KGI to current email
+- Schedule sent an email for VPN application to Summer 2023 Interns
+- Added email template to Institutional Knowledge
+- Scheduled reminder for VPN duplication
+
+----------------------------------------------------------------
 **05/05/2023** (4 hours)
 
 Modified Automated Offer Letter Generator (AGOL) GCP Notebook to Summer version
