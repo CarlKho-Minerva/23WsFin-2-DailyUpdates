@@ -1,6 +1,13 @@
-## 23WsFin-2-DailyUpdates CarlKho##
+# 23WsFin-2-DailyUpdates CarlKho#
 ### Assigned to be 12 hours/week by Emil ### 
 ----------------------------------------------------------------
+
+**05/09/2023** (2 hours)
+- Addressed VPN Concerns
+- Updated HelloSign API Key to use StudentPayroll's in AGOL [https://github.com/CarlKho-Minerva/2324WsFin-0-AGOL/tree/main]
+
+----------------------------------------------------------------
+## Week 1 END ##
 
 **05/06/2023** (2 hours)
 
