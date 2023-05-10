@@ -3,7 +3,7 @@
 ----------------------------------------------------------------
 
 **05/09/2023** (2 hours)
-- Recorded VPN [Connection Tutorial] ([url](https://drive.google.com/file/d/1_reXldbNbLe2dliVe5u2T4XIy6rmWPsp/view?usp=share_link)) for MacOS
+- Recorded VPN ([Connection Tutorial](https://drive.google.com/file/d/1_reXldbNbLe2dliVe5u2T4XIy6rmWPsp/view?usp=share_link)) for MacOS
 ----------------------------------------------------------------
 
 **05/09/2023** (2 hours)
