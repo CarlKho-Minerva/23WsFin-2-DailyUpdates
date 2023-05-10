@@ -6,6 +6,7 @@
 - Recorded VPN ([Connection Tutorial](https://drive.google.com/file/d/1_reXldbNbLe2dliVe5u2T4XIy6rmWPsp/view?usp=share_link)) for MacOS
 - Emailed Mann about batch adding/editing in VPN
 - Played around with Meraki to look out for improvements.
+- Gave access to the ([5 people who signed up](https://docs.google.com/spreadsheets/d/1T9My-UCPiD1djd006cdW4Tu2Ri0HiMABhI3o3o_4YQQ/edit#gid=878031971))
 ----------------------------------------------------------------
 
 **05/09/2023** (2 hours)
