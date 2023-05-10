@@ -3,6 +3,10 @@
 ----------------------------------------------------------------
 
 **05/09/2023** (2 hours)
+- Recorded VPN [Connection Tutorial] ([url](https://drive.google.com/file/d/1_reXldbNbLe2dliVe5u2T4XIy6rmWPsp/view?usp=share_link)) for MacOS
+----------------------------------------------------------------
+
+**05/09/2023** (2 hours)
 - Addressed VPN Concerns
 - Updated HelloSign API Key to use StudentPayroll's in AGOL [https://github.com/CarlKho-Minerva/2324WsFin-0-AGOL/tree/main]
 
