@@ -1,8 +1,11 @@
 # 23WsFin-2-DailyUpdates CarlKho#
 ### Assigned to be 12 hours/week by Emil ### 
-----------------------------------------------------------------
 
 **05/09/2023** (2 hours)
+- Updated ([2023 Summer Internship FAQ](https://docs.google.com/document/d/1xr0DPjpI0h8l4860m3gfEvtXTbWprNV4NnGYCjbaAOc/edit?usp=sharing))
+----------------------------------------------------------------
+
+**05/16/2023** (2 hours)
 - Recorded VPN ([Connection Tutorial](https://drive.google.com/file/d/1_reXldbNbLe2dliVe5u2T4XIy6rmWPsp/view?usp=share_link)) for MacOS
 - Emailed Mann about batch adding/editing in VPN
 - Played around with Meraki to look out for improvements.
